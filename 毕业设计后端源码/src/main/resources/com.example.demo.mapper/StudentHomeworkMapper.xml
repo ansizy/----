@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.example.demo.mapper.StudentHomeworkMapper">
+
+
+    <!--    <insert id="insert">-->
+    <!--        insert into sys_user(user_name, user_password, user_role, user_emile, user_school, user_phone)-->
+    <!--        VALUES(#{userName},#{userPassword},#{userRole},#{userEmile},#{userSchool},#{userPhone})-->
+    <!--    </insert>-->
+
+    <!--    <update id="update">-->
+
+    <!--    </update>-->
+<!--    <select id="selectHomeworkById" resultType="com.example.demo.entity.StudentHomework">-->
+<!--        select * from student_homework-->
+<!--        where student_id = #{studentId}-->
+<!--    </select>-->
+</mapper>
